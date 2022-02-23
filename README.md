@@ -1,3 +1,3 @@
-# zebleck.github.io
+My github page, built with [Jekyll](https://jekyllrb.com/).
 
-Simple index file to act as a redirect uri
+**Jekyll theme**: [samarsault.com/texture](https://github.com/samarsault/texture)
