@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello, my name is zebleck. My destiny has brought me to study M.Sc. Data and Computer Science at the University of Heidelberg in Germany. Before that, I did my B.Sc. Physics at the same university.
+Hello, my name is Fabian, online I go by zebleck. My destiny has brought me to study M.Sc. Data and Computer Science at the University of Heidelberg in Germany. Before that, I did my B.Sc. Physics at the same university.
 
 I love all things having to do with artifical intelligence, artificial life and technology in general and hope those things will be used for the betterment of everyone.
 
@@ -11,6 +11,10 @@ I love all things having to do with artifical intelligence, artificial life and 
 ## [Unity implementation of Lenia](https://twitter.com/zebleckAI/status/1496244990929948672)
 
 Lenia is a ruleset for creating continuous cellular automata which produce complex behaviour and even artificial life. I am currently working on an implementation on Unity, which will be distributed on the iOS and Android app stores in the future.
+
+## [Webdeveloper at MaMpf E-Learning platform](https://github.com/MaMpf-HD/mampf)
+
+MaMpf is an open source E-Learning platform for the mathematical sciences, which I am contributing to at the University of Heidelberg. The project uses the programming language Ruby as well as the webframework [Ruby on Rails](https://rubyonrails.org/).
 
 ## [Reinforcement Learning of Countermeasures for COVID-19 spread prevention](https://github.com/zebleck/aml_project)
 
