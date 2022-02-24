@@ -1,3 +1,3 @@
 My github page, built with [Jekyll](https://jekyllrb.com/).
 
-**Jekyll theme**: [samarsault.com/texture](https://github.com/samarsault/texture)
+**Jekyll theme**: [samarsault.com/texture](https://github.com/pages-themes/minimal)
