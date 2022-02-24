@@ -4,6 +4,8 @@ layout: default
 
 Hello, my name is zebleck. My destiny has brought me to study M.Sc. Data and Computer Science at the University of Heidelberg in Germany. Before that, I did my B.Sc. Physics at the same university.
 
+I love all things having to do with artifical intelligence, artificial life and technology in general and hope those things will be used for the betterment of everyone.
+
 # Projects
 
 ## [Unity implementation of Lenia](https://twitter.com/zebleckAI/status/1496244990929948672)
