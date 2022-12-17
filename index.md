@@ -8,6 +8,15 @@ I love all things having to do with artifical intelligence, artificial life and 
 
 # Projects
 
+## [Exist Founder Scholarship](https://www.exist.de/EXIST/Navigation/DE/Home/home.html)
+
+To found our product *Cosmos*, which aims to offer an afforable and secure energy management and smart home solution, our team Hausable is receiving the EXIST Founder Scholarship. EXIST is a German government program that provides funding and support to individuals and teams interested in starting a business based on their research or technological expertise. It helps founders develop their business ideas and bring them to market through funding, coaching, and mentorship.
+
+## [Samsung Solve for Tomorrow Finalist](https://www.samsung.com/de/sustainability/corporate-citizenship/local-engagement/solve-for-tomorrow/home/)
+
+With our innovative edge-based smart home and energy optimization solutin, our team Hausable qualified to be in the top 5 teams in Samsungs Solve for Tomrorrow challenge (2022), which seeks creative and innovative ideas to empower the protection of our urban environments and to improve the living conditions of their habitants. 
+
+
 ## [Unity implementation of Lenia](https://twitter.com/zebleckAI/status/1496244990929948672)
 
 Lenia is a ruleset for creating continuous cellular automata which produce complex behaviour and even artificial life. I am currently working on an implementation on Unity, which will be distributed on the iOS and Android app stores in the future.
